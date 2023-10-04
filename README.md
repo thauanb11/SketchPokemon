@@ -1,8 +1,27 @@
 
-Este projeto se trata de um mini-game, onde se tem como objetivo levar o eevvee até a pokebola.
-Modelo de jogo simples, onde você consegue controlar o personagem, através das setinhas(padrão) do seu teclado.
+<h1 align="center">
+<img src = "./sketchpokemon/assets/pokemon-logo.png"/>
+<p>Sketch Pokemon 👾 </p> 
+  </h1>
+
+  ## 📕 About
 
 
-<img src="https://github.com/thauanb11/SketchPokemon/assets/gifminigame.gif">
+  #### **Sketch pokemon** é um mini-game, feito em *JavaScript*, com alguns elementos de *CSS* e *HTML*.  
 
-<https://editor.p5js.org/thauan11/full/KnzZ5bb9H>
+
+  ## 🧠 Objetive
+  Leve o *Eevvee* até  a pokebola.
+
+
+  ## 📼 Demo
+
+  <img src = "./sketchpokemon/assets/gifmimigame.gif"/>
+
+
+  ## 🔨 Tools
+
+ - [ JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+ - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
